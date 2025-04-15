@@ -1,0 +1,18 @@
+body {
+    background-color: hsla(216, 64%, 33%, 0);
+    font-family: Arial, sans-serif;
+}
+
+h1,h2 {
+    color: darkblue;
+}
+
+.table {
+    border: 1px solid hsl(0, 80%, 33%);
+    width: 100%;
+}
+.head {
+    border: 1px solid hsl(0, 80%, 33%);
+    width: 100%;
+}
+
